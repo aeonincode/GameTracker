@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Learning\\Projects\\c-sharp\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+      "projectUniqueName": "C:\\Learning\\Projects\\c-sharp\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
       "projectName": "TrackerLibrary",
-      "projectPath": "C:\\Learning\\Projects\\c-sharp\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+      "projectPath": "C:\\Learning\\Projects\\c-sharp\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
       "packagesPath": "C:\\Users\\khashayar\\.nuget\\packages\\",
-      "outputPath": "C:\\Learning\\Projects\\c-sharp\\TournamentTracker\\TournamentTracker\\TrackerLibrary\\obj\\",
+      "outputPath": "C:\\Learning\\Projects\\c-sharp\\TournamentTracker\\TrackerLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
